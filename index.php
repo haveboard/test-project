@@ -1,4 +1,4 @@
 <?
 #test git project
-#git checkout mybranch
+#git checkout mybranch!
 ?>
