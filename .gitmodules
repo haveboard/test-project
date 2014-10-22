@@ -1,0 +1,3 @@
+[submodule "Have-Background"]
+	path = Have-Background
+	url = git@github.com:haveboard/Have-Background.git
